@@ -7,6 +7,7 @@ cpfrate = float(input("Enter CPF contribution rate(%): "))
 gross = pay * hours
 cpf = gross * (cpfrate / 100)
 netpay = gross - cpf
+
 print (" ")
 print ("Payroll statement for {0}".format(name))
 print ("Number of hours worked in week: {0}".format(hours))
