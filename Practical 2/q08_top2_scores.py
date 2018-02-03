@@ -1,7 +1,7 @@
 # Finding the two highest scores
 
 num = int(input("Number of students: "))
-students ={}
+students = {}
 scores = []
 for i in range(num):
     name = input("Name: ")
