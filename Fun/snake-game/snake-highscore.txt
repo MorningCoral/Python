@@ -1,0 +1,4 @@
+easy-untimed,0
+easy-timed,0
+hard-untimed,0
+hard-timed,0
